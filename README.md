@@ -1,6 +1,6 @@
 # learning Git and Github course
 
-## learning how to use Git from Amigoscode
+## learning how to use Git and Github from Amigoscode
 
 https://amigoscode.com/courses/git-github
 
