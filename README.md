@@ -1,4 +1,4 @@
-# learning-git
+# learning Git and Github course
 
 ## learning how to use Git from Amigoscode
 
